@@ -11,7 +11,7 @@ Proyectos de Análisis de Datos.
   Se utilizó **Pandas** y **SQL** para limpieza y análisis, y se crearon visualizaciones en **Excel**, **Power BI** y **Tableau** para identificar 
   tendencias y oportunidades.
 
-  - [Proyecto Análisis de Salarios en Ciencia de Datos](https://github.com/victor041020/Proyecto-Salarios-Data-Sience)  
+- [Proyecto Análisis de Salarios en Ciencia de Datos](https://github.com/victor041020/Proyecto-Salarios-Data-Sience)  
   Este repositorio ofrece un análisis exhaustivo de los salarios en ciencia de datos.  
   Incluye un informe detallado, scripts de **Python** y **SQL** para el análisis, además de dashboards interactivos en **Excel**, **Power BI** y 
   **Tableau**.
