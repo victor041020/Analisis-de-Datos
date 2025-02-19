@@ -16,3 +16,7 @@ Proyectos de Análisis de Datos.
   Incluye un informe detallado, scripts de **Python** y **SQL** para el análisis, además de dashboards interactivos en **Excel**, **Power BI** y 
   **Tableau**.
 
+  # Ciencia-de-Datos
+
+  ## 📂 Proyectos
+
